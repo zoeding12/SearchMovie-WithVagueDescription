@@ -8,7 +8,9 @@ Tools and libraries used:
 -openCSV (read dataset from csv file) 
 
 Find Report and presentation slides in the folder "Documentations".
+
 Find Elasticsearch file in google drive: https://drive.google.com/drive/folders/1o3AGw6n8TZyIpMyg8ZKPogxI6g60NYpj?usp=sharing
+
 Find demostration video in google drive: https://drive.google.com/drive/folders/1o3AGw6n8TZyIpMyg8ZKPogxI6g60NYpj?usp=sharing
 
 How to start the application?
