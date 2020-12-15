@@ -1,0 +1,82 @@
+16-Oct-2020 15:41:02.396 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.58
+16-Oct-2020 15:41:02.401 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Sep 10 2020 21:45:33 UTC
+16-Oct-2020 15:41:02.404 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号(:     8.5.58.0
+16-Oct-2020 15:41:02.404 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+16-Oct-2020 15:41:02.405 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+16-Oct-2020 15:41:02.405 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+16-Oct-2020 15:41:02.405 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Program Files\Java\jdk-13.0.1
+16-Oct-2020 15:41:02.406 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    13.0.1+9
+16-Oct-2020 15:41:02.406 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+16-Oct-2020 15:41:02.406 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe
+16-Oct-2020 15:41:02.407 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe
+16-Oct-2020 15:41:02.407 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：--add-opens=java.base/java.lang=ALL-UNNAMED
+16-Oct-2020 15:41:02.407 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：--add-opens=java.base/java.io=ALL-UNNAMED
+16-Oct-2020 15:41:02.408 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：--add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+16-Oct-2020 15:41:02.408 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.config.file=D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\conf\logging.properties
+16-Oct-2020 15:41:02.408 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Oct-2020 15:41:02.409 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djdk.tls.ephemeralDHKeySize=2048
+16-Oct-2020 15:41:02.410 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+16-Oct-2020 15:41:02.410 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dignore.endorsed.dirs=
+16-Oct-2020 15:41:02.411 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.base=D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe
+16-Oct-2020 15:41:02.411 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.home=D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe
+16-Oct-2020 15:41:02.412 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.io.tmpdir=D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\temp
+16-Oct-2020 15:41:02.419 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[C:\Program Files\Java\jdk-13.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python38\Scripts\;C:\Python38\;C:\app\Zoe_Ding\product\11.2.0\client_1;D:\installed_software\NetSarang\Xshell 6\;D:\installed_software\Python37\Scripts\;D:\installed_software\Python37\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\installed_software\TortoiseSVN\bin;C:\Program Files\Java\jdk-13.0.1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Zoe-Ding\CS\flutter\bin;C:\Program Files (x86)\CodeBlocks\MinGW\bin;C:\ProgramData\chocolatey\bin;C:\tools\dart-sdk\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\Zoe Ding\AppData\Local\Android\Sdk\platform-tools;C:\cygwin64;C:\Users\Zoe Ding\AppData\Local\Microsoft\WindowsApps;D:\Zoe-Ding\CS\flutter\bin;C:\tools\dart-sdk\bin;C:\Users\Zoe Ding\AppData\Roaming\Pub\Cache\bin;C:\Users\Zoe Ding\AppData\Roaming\npm;C:\Users\Zoe Ding\CLion 2020.2.1\bin;;.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+16-Oct-2020 15:41:02.471 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+16-Oct-2020 15:41:03.167 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+16-Oct-2020 15:41:03.179 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1280 ms
+16-Oct-2020 15:41:03.228 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+16-Oct-2020 15:41:03.228 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.58
+16-Oct-2020 15:41:03.898 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[353]毫秒。
+16-Oct-2020 15:41:03.921 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\docs]
+16-Oct-2020 15:41:03.948 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\docs]的部署已在[27]毫秒内完成
+16-Oct-2020 15:41:03.949 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\examples]
+16-Oct-2020 15:41:04.395 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\examples]的部署已在[446]毫秒内完成
+16-Oct-2020 15:41:04.396 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\host-manager]
+16-Oct-2020 15:41:04.439 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\host-manager]的部署已在[43]毫秒内完成
+16-Oct-2020 15:41:04.440 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\manager]
+16-Oct-2020 15:41:04.472 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\manager]的部署已在[32]毫秒内完成
+16-Oct-2020 15:41:04.472 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\ROOT]
+16-Oct-2020 15:41:04.499 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\ROOT]的部署已在[27]毫秒内完成
+16-Oct-2020 15:41:04.506 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+16-Oct-2020 15:41:04.520 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 1341 ms
+16-Oct-2020 16:31:29.885 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.58
+16-Oct-2020 16:31:29.894 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Sep 10 2020 21:45:33 UTC
+16-Oct-2020 16:31:29.896 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号(:     8.5.58.0
+16-Oct-2020 16:31:29.897 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+16-Oct-2020 16:31:29.897 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+16-Oct-2020 16:31:29.897 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+16-Oct-2020 16:31:29.897 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Program Files\Java\jdk-13.0.1
+16-Oct-2020 16:31:29.898 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    13.0.1+9
+16-Oct-2020 16:31:29.898 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+16-Oct-2020 16:31:29.898 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe
+16-Oct-2020 16:31:29.898 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe
+16-Oct-2020 16:31:29.899 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：--add-opens=java.base/java.lang=ALL-UNNAMED
+16-Oct-2020 16:31:29.900 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：--add-opens=java.base/java.io=ALL-UNNAMED
+16-Oct-2020 16:31:29.900 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：--add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+16-Oct-2020 16:31:29.900 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.config.file=D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\conf\logging.properties
+16-Oct-2020 16:31:29.901 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Oct-2020 16:31:29.901 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djdk.tls.ephemeralDHKeySize=2048
+16-Oct-2020 16:31:29.902 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+16-Oct-2020 16:31:29.902 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dignore.endorsed.dirs=
+16-Oct-2020 16:31:29.903 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.base=D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe
+16-Oct-2020 16:31:29.904 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.home=D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe
+16-Oct-2020 16:31:29.904 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.io.tmpdir=D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\temp
+16-Oct-2020 16:31:29.905 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[C:\Program Files\Java\jdk-13.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python38\Scripts\;C:\Python38\;C:\app\Zoe_Ding\product\11.2.0\client_1;D:\installed_software\NetSarang\Xshell 6\;D:\installed_software\Python37\Scripts\;D:\installed_software\Python37\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\installed_software\TortoiseSVN\bin;C:\Program Files\Java\jdk-13.0.1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Zoe-Ding\CS\flutter\bin;C:\Program Files (x86)\CodeBlocks\MinGW\bin;C:\ProgramData\chocolatey\bin;C:\tools\dart-sdk\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\Zoe Ding\AppData\Local\Android\Sdk\platform-tools;C:\cygwin64;C:\Users\Zoe Ding\AppData\Local\Microsoft\WindowsApps;C:\Users\Zoe Ding\AppData\Roaming\Pub\Cache\bin;C:\Users\Zoe Ding\AppData\Roaming\npm;C:\Users\Zoe Ding\CLion 2020.2.1\bin;.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+16-Oct-2020 16:31:29.968 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+16-Oct-2020 16:31:30.713 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+16-Oct-2020 16:31:30.724 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1590 ms
+16-Oct-2020 16:31:30.768 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+16-Oct-2020 16:31:30.768 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.58
+16-Oct-2020 16:31:31.423 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[329]毫秒。
+16-Oct-2020 16:31:31.466 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\docs]
+16-Oct-2020 16:31:31.497 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\docs]的部署已在[31]毫秒内完成
+16-Oct-2020 16:31:31.497 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\examples]
+16-Oct-2020 16:31:31.930 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\examples]的部署已在[433]毫秒内完成
+16-Oct-2020 16:31:31.931 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\host-manager]
+16-Oct-2020 16:31:31.966 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\host-manager]的部署已在[35]毫秒内完成
+16-Oct-2020 16:31:31.966 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\manager]
+16-Oct-2020 16:31:31.997 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\manager]的部署已在[31]毫秒内完成
+16-Oct-2020 16:31:31.997 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\ROOT]
+16-Oct-2020 16:31:32.027 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Zoe-Ding\NEU\CS_6200_Information_Retrieval\04_homework\hw1\indexingProject_zoe\webapps\ROOT]的部署已在[30]毫秒内完成
+16-Oct-2020 16:31:32.034 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+16-Oct-2020 16:31:32.044 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 1319 ms
